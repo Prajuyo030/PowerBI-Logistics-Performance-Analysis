@@ -1,7 +1,7 @@
 # Logistics & On-Time Delivery Analysis (Power BI)
 
 ## Overview
-This Power BI project analyzes logistics performance with a focus on
+This Power BI project analyses logistics performance with a focus on
 on-time delivery trends, shipment modes, freight distribution, and
 country-wise delivery delays.
 
@@ -15,8 +15,8 @@ country-wise delivery delays.
 ## Tools Used
 - Power BI Desktop
 - DAX
-- Data Modeling
-- Data Visualization
+- Data Modelling
+- Data Visualisation
 
 ## How to Use
 1. Download the `.pbix` file
